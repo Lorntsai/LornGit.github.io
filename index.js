@@ -1,4 +1,4 @@
 function test()
 {
-  alert( "123");
+  alert( "123123");
 }
